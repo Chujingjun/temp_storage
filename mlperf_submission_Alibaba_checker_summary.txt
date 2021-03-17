@@ -1,0 +1,2 @@
+[2021-03-16 21:24:34,196 submission-checker.py:1211 INFO] Results=20, NoResults=0
+[2021-03-16 21:24:34,196 submission-checker.py:1216 INFO] SUMMARY: submission looks OK
